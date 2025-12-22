@@ -2,7 +2,7 @@
 
     An end-to-end ""machine learning + Streamlit"" application that predicts ""30-day hospital readmission risk"" using patient encounter data and presents results through an interactive dashboard.
 
-    This project demonstrates **real-world ML deployment**, feature engineering, and decision-support thinking for healthcare analytics.
+    This project demonstrates ""real-world ML deployment"", feature engineering, and decision-support thinking for healthcare analytics.
 
     ---
 
@@ -16,7 +16,7 @@
 
     - Predicts probability of 30-day hospital readmission
     - Interactive Streamlit dashboard with real-time inputs
-    - Trained **Random Forest Classifier** with class imbalance handling
+    - Trained ""Random Forest Classifier"" with class imbalance handling
     - Clear risk categorization (High Risk vs Low Risk)
     - Estimated cost savings insight for high-risk prevention
     - Production-ready project structure
@@ -25,12 +25,12 @@
 
 ## 🧠 Machine Learning Overview
 
-    - **Model:** RandomForestClassifier
-    - **Class Weighting:** Balanced
-    - **Evaluation Focus:** Recall & probability-based decision threshold
-    - **Target:** Hospital readmission within 30 days
+    - Model: RandomForestClassifier
+    - Class Weighting: Balanced
+    - Evaluation Focus: Recall & probability-based decision threshold
+    - Target: Hospital readmission within 30 days
 
-    **Model Features Used:**
+    Model Features Used:
 
     - `age_numeric`
     - `time_in_hospital`
@@ -43,18 +43,17 @@
 
 ## 🖥️ Tech Stack
 
-    - **Python**
-    - **Pandas, NumPy**
-    - **Scikit-learn**
-    - **Streamlit**
-    - **Joblib**
-    - **Jupyter Notebook**
+    - Python
+    - Pandas, NumPy
+    - Scikit-learn
+    - Streamlit
+    - Joblib
+    - Jupyter Notebook
 
     ---
 
 ## 📁 Project Structure
 
-    ```text
     Hospital-Readmission-Predictor/
     │
     ├── app/
@@ -71,7 +70,7 @@
     ├── requirements.txt
     ├── .gitignore
     └── README.md
-    ```
+
 
 ⚙️ How to Run Locally
 
@@ -114,5 +113,6 @@
 📄 Disclaimer
 
     This project is for educational and analytical purposes only and does not constitute medical advice.
+
 
 
