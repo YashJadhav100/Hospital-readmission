@@ -1,6 +1,6 @@
 # 🏥 Hospital Readmission Risk Predictor
 
-    An end-to-end **machine learning + Streamlit** application that predicts **30-day hospital readmission risk** using patient encounter data and presents results through an interactive dashboard.
+    An end-to-end ""machine learning + Streamlit"" application that predicts ""30-day hospital readmission risk"" using patient encounter data and presents results through an interactive dashboard.
 
     This project demonstrates **real-world ML deployment**, feature engineering, and decision-support thinking for healthcare analytics.
 
@@ -114,4 +114,5 @@
 📄 Disclaimer
 
     This project is for educational and analytical purposes only and does not constitute medical advice.
+
 
