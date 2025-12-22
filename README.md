@@ -4,13 +4,9 @@
 
     This project demonstrates ""real-world ML deployment"", feature engineering, and decision-support thinking for healthcare analytics.
 
-    ---
-
 ## 🚀 Live Demo
 
     👉 https://hospital-readmission-predictor-kro4jvk9njwzt3a4xitsbj.streamlit.app/
-
-    ---
 
 ## 📌 Key Features
 
@@ -20,8 +16,6 @@
     - Clear risk categorization (High Risk vs Low Risk)
     - Estimated cost savings insight for high-risk prevention
     - Production-ready project structure
-
-    ---
 
 ## 🧠 Machine Learning Overview
 
@@ -39,8 +33,6 @@
     - `number_emergency`
     - `number_inpatient`
 
-    ---
-
 ## 🖥️ Tech Stack
 
     - Python
@@ -49,8 +41,6 @@
     - Streamlit
     - Joblib
     - Jupyter Notebook
-
-    ---
 
 ## 📁 Project Structure
 
@@ -70,8 +60,7 @@
     ├── requirements.txt
     ├── .gitignore
     └── README.md
-
-
+    
 ⚙️ How to Run Locally
 
     # 1. Clone the repository
@@ -113,6 +102,7 @@
 📄 Disclaimer
 
     This project is for educational and analytical purposes only and does not constitute medical advice.
+
 
 
 
