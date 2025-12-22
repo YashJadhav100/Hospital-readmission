@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-    👉 _(Streamlit Cloud deployment link coming soon)_
+    👉 https://hospital-readmission-predictor-kro4jvk9njwzt3a4xitsbj.streamlit.app/
 
     ---
 
@@ -114,3 +114,4 @@
 📄 Disclaimer
 
     This project is for educational and analytical purposes only and does not constitute medical advice.
+
